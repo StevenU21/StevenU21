@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StevenU21
-- 👀 I’m interested in BackEnd Development
+- 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with :3
 - 📫 How to reach me='ulloadeifheltsteven@gmail.com'
 
 <!---
