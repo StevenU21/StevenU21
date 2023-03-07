@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StevenU21
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate with :3
+- 🌱 I’m currently learning Frontend and UI/UX Design
+- 💞️ I’m looking to collaborate with you my Love
 - 📫 How to reach me='ulloadeifheltsteven@gmail.com'
 
 <!---
