@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20views&color=0e75b6&style=flat" alt="stevenu21" /> </p>
 
-- 🌱 I’m currently learning **Responsive Design**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Backend Development, DB and FrontEnd UI/UX**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **ulloadeifheltsteven@gmail.com**
 
