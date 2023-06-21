@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/deifhelt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deifhelt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deifhelt-ulloa-12b56323a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deifhelt-ulloa-12b56323a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:19900718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19900718" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19900718/deifhelt-ulloa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19900718" height="30" width="40" /></a>
 </p>
 
 ## 📝 Languages
