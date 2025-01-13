@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20views&color=0e75b6&style=flat" alt="stevenu21" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/nicaragua_private/stevenu21.svg)](https://user-badge.committers.top/nicaragua_private/stevenu21)
+[![committers.top badge](https://user-badge.committers.top/nicaragua_private/StevenU21.svg)](https://user-badge.committers.top/nicaragua_private/StevenU21)
 ---
 
 ## 🌟 About Me:
