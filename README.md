@@ -48,7 +48,6 @@ My goal is to contribute to the development of robust and functional web applica
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="75px"/>
        <img src="https://vitejs.dev/logo.svg" alt="Vite" height="75px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" height="75px"/>
-
 </div>
 
 ### Databases:
@@ -57,6 +56,13 @@ My goal is to contribute to the development of robust and functional web applica
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="75px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="75px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="75px"/>
+</div>
+
+### Server & Hosting Tools:
+
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="75px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="75px"/>
 </div>
 
 ---
