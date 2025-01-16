@@ -61,8 +61,8 @@ My goal is to contribute to the development of robust and functional web applica
 ### Server & Hosting Tools:
 
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="75px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="75px"/>
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" height="75px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" height="75px"/>
 </div>
 
 ---
