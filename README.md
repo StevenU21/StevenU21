@@ -15,7 +15,6 @@ I am a passionate web developer with a strong foundation in back-end technologie
 
 - **Currently Learning:** Advanced frameworks and cloud/server architectures.
 - **Looking for:** Challenging backend projects and collaboration opportunities.
-- **Contact:** [Email Me](mailto:ulloadeifheltsteven@gmail.com)
 
 ---
 
