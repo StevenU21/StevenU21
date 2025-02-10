@@ -55,6 +55,7 @@ I am a passionate web developer with a strong foundation in both front-end and b
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="75" height="75"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="75" height="75"/>
 </div>
 
 ### Databases
