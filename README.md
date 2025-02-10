@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I am a passionate web developer with a strong foundation in both front-end and back-end technologies. I focus on creating scalable, efficient web solutions and continuously update my skill set with modern frameworks and server architectures. I thrive on collaborating on innovative projects that drive digital transformation.
+I am a passionate web developer with a strong foundation in back-end technologies. I focus on creating scalable, efficient web solutions and continuously update my skill set with modern frameworks and server architectures. I thrive on collaborating on innovative projects that drive digital transformation.
 
 - **Currently Learning:** Advanced frameworks and cloud/server architectures.
 - **Looking for:** Challenging backend projects and collaboration opportunities.
