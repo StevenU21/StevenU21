@@ -4,11 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/stevenu21?label=Follow&style=social" alt="Follow" />
-  <a href="https://committers.top/nicaragua_public/StevenU21">
-    <img src="https://user-badge.committers.top/nicaragua_public/StevenU21.svg" alt="Committers Badge" />
+  <a href="https://user-badge.committers.top/nicaragua_private/StevenU21">
+    <img src="https://user-badge.committers.top/nicaragua_private/StevenU21.svg" alt="Committers Badge" />
   </a>
 </p>
-
 
 ---
 
