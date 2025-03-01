@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm StevenU21</h1>
-<h3 align="center">Laravel Developer | Mobile Developer | Backend Enthusiast | Tech Explorer</h3>
+<h3 align="center">Laravel Developer | Backend Developer | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,10 +13,7 @@
 
 ## 🌟 About Me
 
-I am a passionate web developer with a strong foundation in back-end technologies. I focus on creating scalable, efficient web solutions and continuously update my skill set with modern frameworks and server architectures. I thrive on collaborating on innovative projects that drive digital transformation.
-
-- **Currently Learning:** Advanced frameworks and cloud/server architectures.
-- **Looking for:** Challenging backend projects and collaboration opportunities.
+I'm a web developer passionate about technology. I’m always learning and looking for new opportunities and challenges.
 
 ---
 
@@ -44,20 +41,22 @@ I am a passionate web developer with a strong foundation in back-end technologie
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="HTML" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="CSS" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="75" height="75"/>
+  <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="75" height="75"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="75" height="75"/>
 </div>
 
 ### Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" alt="Laravel" width="75" height="75"/>
+  <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="75" height="75"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="75" height="75"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="75" height="75"/>
+  <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="75" height="75"/> -->
 </div>
 
 ### Databases
@@ -98,10 +97,3 @@ I am a passionate web developer with a strong foundation in back-end technologie
 - 🌐 The first website, created by Tim Berners-Lee in 1991, is still live: [http://info.cern.ch](http://info.cern.ch).
 - 🚀 The name "Laravel" was inspired by the castle "Laravale" from Dragon Quest.
 - 📅 PHP's first version was released in 1995 by Rasmus Lerdorf.
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out if you want to collaborate or just chat about technology!  
-[Email Me](mailto:ulloadeifheltsteven@gmail.com)
