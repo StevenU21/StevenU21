@@ -20,40 +20,55 @@
 - 🚀 **Intereses:** Clean Code, buenas prácticas, seguridad, automatización, DevOps y nuevas tecnologías web.
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 📫 ¿Quieres contactarme?
+
+- ✉️ **Email:** ulloadeifheltsteven@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/stevenu21](https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/)
+- 🌐 **Portafolio:** Proximamente...
+
+---
+
+## 🔧 Tecnologías & Herramientas
 
 <div align="center">
 
-### Lenguajes
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="HTML" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="CSS" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="75" height="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="75" height="75"/>
-</div>
+<h3 align="center">🖥️ Lenguajes</h3>
+<span>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</span>
 
-### Frameworks & Librerías
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" alt="Laravel" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="75" height="75"/>
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="75" height="75"/>
-</div>
+<br>
 
-### Bases de Datos
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="75" height="75"/>
-</div>
+<h3 align="center">🚀 Frameworks</h3>
+<span>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</span>
 
-### Servidores & DevOps
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="75" height="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="75" height="75"/>
- <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="75" height="75"/> -->
-</div>
+<br>
+
+<h3 align="center">💾 Bases de Datos</h3>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</span>
+
+<br>
+
+<h3 align="center">🖧 Sistemas Operativos y Hosting</h3>
+<span>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</span>
 
 </div>
 
@@ -81,14 +96,6 @@
 - [**💬 App de Chat en Tiempo Real**](https://github.com/StevenU21/laravel-reverb-chat): Esta es una app de chat en tiempo real, hecha con laravel, blade, javascript y usando broadcasting con Reverb y Echo JS.
 - [**📊 Argon Dashboard for Laravel**](https://github.com/StevenU21/argon-laravel): Este proyecto toma la plantilla de codigo abierto argon, que ademas tiene licencia MIT y lo integra a Laravel como Starter Kit para facilitar el desarrollo de nuevos proyectos.
 - [**🌬️ Windmill Dashboard for Laravel**](https://github.com/StevenU21/windmill-laravel): Este proyecto toma la plantilla de codigo abierto windmill dashboard ui, que ademas cuenta con la licencia MIT, tambien es otro starter kit para laravel y facilitar el proceso de creación de nuevos proyectos.
-
----
-
-## 📫 ¿Quieres contactarme?
-
-- ✉️ **Email:** ulloadeifheltsteven@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/stevenu21](https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/)
-- 🌐 **Portafolio:** Proximamente...
 
 ---
 
