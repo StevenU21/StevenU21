@@ -17,22 +17,6 @@ I'm a web developer passionate about technology. I’m always learning and looki
 
 ---
 
-## 👤 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/deifhelt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/deifhelt-ulloa-12b56323a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/19900718/deifhelt-ulloa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" />
-  </a>
-</p>
-
----
-
 ## 🔧 Technologies & Tools
 
 <div align="center">
@@ -41,17 +25,16 @@ I'm a web developer passionate about technology. I’m always learning and looki
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="HTML" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="CSS" width="75" height="75"/>
-  <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="75" height="75"/> -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="JavaScript" width="75" height="75"/>
+  <!-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="TypeScript" width="75" height="75"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="75" height="75"/>
 </div>
 
 ### Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" alt="Laravel" width="75" height="75"/>
-  <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="75" height="75"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="75" height="75"/> -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="75" height="75"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="75" height="75"/>
   <!--
