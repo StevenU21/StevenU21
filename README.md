@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Deifhelt Steven Ulloa!</h1>
-<h3 align="center">Desarrollador Backend | Especialista en Laravel | Apasionado por la Tecnología</h3>
+<h3 align="center">Desarrollador Backend | Especialista en Laravel | Desarrollador de Videojuegos Indie</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
 </span>
 
 <br>
@@ -46,6 +47,7 @@
 <h3 align="center">🚀 Frameworks</h3>
 <span>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Godot-483D8B?style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
