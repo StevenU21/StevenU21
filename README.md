@@ -13,7 +13,7 @@
 
 ## 🌟 Sobre Mí
 
-¡Hola! Soy Steven, un desarrollador web enfocado principalmente en el backend y con una fuerte inclinación por el framework Laravel y el ecosistema PHP. Me considero autodidacta, proactivo y siempre en busca de nuevos retos profesionales y tecnológicos. Mi objetivo es crear soluciones robustas, escalables y de alto impacto para empresas y startups.
+¡Hola! Soy Steven, un desarrollador web enfocado principalmente en el backend y con una fuerte inclinación por el framework Laravel y el ecosistema PHP. Me considero autodidacta, proactivo y siempre en busca de nuevos retos profesionales y tecnológicos. Mi objetivo es crear soluciones robustas, escalables y de alto impacto.
 
 - 🎯 **Enfoque:** Backend con Laravel y PHP moderno.
 - 🛠️ **Experiencia:** Desarrollo de APIs REST, arquitectura de software, optimización de bases de datos, integración de servicios externos y despliegue en servidores Linux.
