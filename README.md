@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Deifhelt Steven Ulloa!</h1>
-<h3 align="center">Desarrollador Backend | Especialista en Laravel | Desarrollador de Videojuegos Indie</h3>
+<h3 align="center">Desarrollador Web y Móvil | Especialista en Laravel | Desarrollador de Videojuegos Indie</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
