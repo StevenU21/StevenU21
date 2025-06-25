@@ -99,6 +99,7 @@
 - [**💬 App de Chat en Tiempo Real**](https://github.com/StevenU21/laravel-reverb-chat): Esta es una app de chat en tiempo real, hecha con laravel, blade, javascript y usando broadcasting con Reverb y Echo JS.
 - [**📊 Argon Dashboard for Laravel**](https://github.com/StevenU21/argon-laravel): Este proyecto toma la plantilla de codigo abierto argon, que ademas tiene licencia MIT y lo integra a Laravel como Starter Kit para facilitar el desarrollo de nuevos proyectos.
 - [**🌬️ Windmill Dashboard for Laravel**](https://github.com/StevenU21/windmill-laravel): Este proyecto toma la plantilla de codigo abierto windmill dashboard ui, que ademas cuenta con la licencia MIT, tambien es otro starter kit para laravel y facilitar el proceso de creación de nuevos proyectos.
+- [**💳 PaymentManager**](https://github.com/StevenU21/PaymentManager): Aplicación móvil diseñada para simplificar y optimizar la gestión de pagos recurrentes de clientes, ya sea para servicios, cuotas o préstamos. Ofrece una interfaz intuitiva y amigable, permitiendo un seguimiento eficiente de cobros y vencimientos, ideal para pequeñas empresas y emprendedores.
 
 ---
 
