@@ -1,5 +1,7 @@
-<h1 align="center">👋 ¡Hola, soy Deifhelt Steven Ulloa!</h1>
-<h3 align="center">Desarrollador Web y Móvil | Especialista en Laravel | Desarrollador de Videojuegos Indie</h3>
+---
+
+<h1 align="center">👋 Hi, I'm Deifhelt Steven Ulloa!</h1>
+<h3 align="center">Web & Mobile Developer | Laravel Specialist | Indie Game Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,28 +13,29 @@
 
 ---
 
-## 🌟 Sobre Mí
+## 🌟 About Me
 
-¡Hola! Soy Steven, un desarrollador web enfocado principalmente en el backend y con una fuerte inclinación por el framework Laravel y el ecosistema PHP. Me considero autodidacta, proactivo y siempre en busca de nuevos retos profesionales y tecnológicos. Mi objetivo es crear soluciones robustas, escalables y de alto impacto.
+Hi! I'm Steven, a web developer mainly focused on backend with a strong inclination toward the Laravel framework and the PHP ecosystem. I consider myself self-taught, proactive, and always seeking new professional and technological challenges. My goal is to create robust, scalable, and high-impact solutions.
 
-- 🎯 **Enfoque:** Backend con Laravel y PHP moderno.
-- 🛠️ **Experiencia:** Desarrollo de APIs REST, arquitectura de software, optimización de bases de datos, integración de servicios externos y despliegue en servidores Linux.
-- 🚀 **Intereses:** Clean Code, buenas prácticas, seguridad, automatización, DevOps y nuevas tecnologías web.
----
-
-## 📫 ¿Quieres contactarme?
-
-- ✉️ **Email:** ulloadeifheltsteven@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/stevenu21](https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/)
-- 🌐 **Portafolio:** Proximamente...
+* 🎯 **Focus:** Backend development with Laravel and modern PHP.
+* 🛠️ **Experience:** REST API development, software architecture, database optimization, external service integration, and Linux server deployment.
+* 🚀 **Interests:** Clean Code, best practices, security, automation, DevOps, and new web technologies.
 
 ---
 
-## 🔧 Tecnologías & Herramientas
+## 📫 Want to contact me?
+
+* ✉️ **Email:** [ulloadeifheltsteven@gmail.com](mailto:ulloadeifheltsteven@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/stevenu21](https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/)
+* 🌐 **Portfolio:** Coming soon...
+
+---
+
+## 🔧 Technologies & Tools
 
 <div align="center">
 
-<h3 align="center">🖥️ Lenguajes</h3>
+<h3 align="center">🖥️ Languages</h3>
 <span>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -57,7 +60,7 @@
 
 <br>
 
-<h3 align="center">💾 Bases de Datos</h3>
+<h3 align="center">💾 Databases</h3>
 <span>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
@@ -67,7 +70,7 @@
 
 <br>
 
-<h3 align="center">🖧 Sistemas Operativos y Hosting</h3>
+<h3 align="center">🖧 Operating Systems & Hosting</h3>
 <span>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -77,7 +80,7 @@
 
 ---
 
-## 📈 Estadísticas y Logros en GitHub
+## 📈 GitHub Stats & Achievements
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StevenU21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="GitHub Stats"/>
@@ -90,25 +93,25 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-- [**📰 API para BlogPost**](https://github.com/StevenU21/blog_post-api-backend): API REStful para el manejo de posts, categorias, comentarios, con roles de usuario, motor de busqueda (Algolia) con autenticación con sanctum y documentación con Postman.
-- [**🎬 API para CineCritic**](https://github.com/StevenU21/cine-critic-api): API REStful orientado a un sistema de reseñas en linea para peliculas y series, cuenta con roles de usaurio, autenticación con sanctum, dashabord para el administrador y gestionar el contenido.
-- [**🔌 API Modelos de OpenAI**](https://github.com/StevenU21/openAI-models-api): Una API REST que consume los modelos de IA de open ai y los potencia agregando una capa de backend como servicios, validaciones, protección de rutas, facilita la integración de los modelos de IA a otras tecnologias.
-- [**🤖 Modelos de OpenAI**](https://github.com/StevenU21/laravel-inertia-vue-ai-models): Una App hecha con laravel e inertia con vuejs, es un proyecto completo implementando los principales modelos de IA que ofrece OpenAI con su servicio de API, ademas aprovecha la potencia de laravel al usar jobs, colas, validaciones, servicios y arquitectura limpia mientras en la parte del front aprovecha las caracteristicas reactivas de vuejs.
-- [**💬 App de Chat en Tiempo Real**](https://github.com/StevenU21/laravel-reverb-chat): Esta es una app de chat en tiempo real, hecha con laravel, blade, javascript y usando broadcasting con Reverb y Echo JS.
-- [**📊 Argon Dashboard for Laravel**](https://github.com/StevenU21/argon-laravel): Este proyecto toma la plantilla de codigo abierto argon, que ademas tiene licencia MIT y lo integra a Laravel como Starter Kit para facilitar el desarrollo de nuevos proyectos.
-- [**🌬️ Windmill Dashboard for Laravel**](https://github.com/StevenU21/windmill-laravel): Este proyecto toma la plantilla de codigo abierto windmill dashboard ui, que ademas cuenta con la licencia MIT, tambien es otro starter kit para laravel y facilitar el proceso de creación de nuevos proyectos.
-- [**💳 PaymentManager**](https://github.com/StevenU21/PaymentManager): Aplicación móvil diseñada para simplificar y optimizar la gestión de pagos recurrentes de clientes, ya sea para servicios, cuotas o préstamos. Ofrece una interfaz intuitiva y amigable, permitiendo un seguimiento eficiente de cobros y vencimientos, ideal para pequeñas empresas y emprendedores.
+* [**📰 BlogPost API**](https://github.com/StevenU21/blog_post-api-backend): A RESTful API for managing posts, categories, comments, with user roles, search engine (Algolia), Sanctum authentication, and Postman documentation.
+* [**🎬 CineCritic API**](https://github.com/StevenU21/cine-critic-api): A RESTful API for an online review system for movies and series, including user roles, Sanctum authentication, admin dashboard, and content management.
+* [**🔌 OpenAI Models API**](https://github.com/StevenU21/openAI-models-api): A REST API that consumes OpenAI AI models and enhances them with a backend service layer, validations, route protection, and easier integration for other technologies.
+* [**🤖 OpenAI Models App**](https://github.com/StevenU21/laravel-inertia-vue-ai-models): A full-stack app using Laravel, Inertia, and Vue.js that implements OpenAI's main models through their API, with backend features like jobs, queues, validations, services, and a clean architecture, combined with Vue's reactive capabilities.
+* [**💬 Real-Time Chat App**](https://github.com/StevenU21/laravel-reverb-chat): A real-time chat application built with Laravel, Blade, JavaScript, and broadcasting using Reverb and Echo JS.
+* [**📊 Argon Dashboard for Laravel**](https://github.com/StevenU21/argon-laravel): This project integrates the open-source Argon dashboard (MIT licensed) into Laravel as a Starter Kit to speed up new project development.
+* [**🌬️ Windmill Dashboard for Laravel**](https://github.com/StevenU21/windmill-laravel): Another Laravel Starter Kit based on the MIT-licensed Windmill Dashboard UI to help jumpstart new projects efficiently.
+* [**💳 PaymentManager**](https://github.com/StevenU21/PaymentManager): A mobile app designed to simplify and optimize the management of recurring client payments, whether for services, fees, or loans. It offers an intuitive interface and is ideal for small businesses and entrepreneurs.
 
 ---
 
-## ✨ Curiosidades & Frases
+## ✨ Fun Facts & Quotes
 
-- 🕵️‍♂️ *"Depurar es como ser un detective en una película donde tú eres el criminal."*
-- 💡 *Nunca dejes de aprender: la tecnología avanza, ¡y nosotros también!*
-- 🐘 PHP originalmente significaba "Personal Home Page" antes de transformarse en "PHP: Hypertext Preprocessor".
-- 🚀 El nombre "Laravel" se inspiró en el castillo "Laravale" del videojuego Dragon Quest.
-- 🌐 El primer sitio web creado por Tim Berners-Lee en 1991 sigue en línea: [info.cern.ch](http://info.cern.ch).
+* 🕵️‍♂️ *"Debugging is like being the detective in a crime movie where you are also the murderer."*
+* 💡 *Never stop learning: technology moves forward, and so should we!*
+* 🐘 PHP originally stood for "Personal Home Page" before becoming "PHP: Hypertext Preprocessor."
+* 🚀 The name "Laravel" was inspired by the "Laravale" castle from the Dragon Quest video game.
+* 🌐 The first website created by Tim Berners-Lee in 1991 is still online: [info.cern.ch](http://info.cern.ch)
 
 ---
