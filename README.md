@@ -1,11 +1,13 @@
----
-
-<h1 align="center">👋 Hi, I'm Deifhelt Steven Ulloa!</h1>
-<h3 align="center">Web & Mobile Developer | Laravel Specialist | Indie Game Developer</h3>
+<h1 align="center">Hi, I'm Deifhelt Steven Ulloa 👋</h1>
+<h3 align="center">Backend Developer | Laravel Specialist | Software Architecture Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stevenu21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/stevenu21?label=Follow&style=social" alt="Follow" />
+  <a href="https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ulloadeifheltsteven@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://user-badge.committers.top/nicaragua_private/StevenU21" target="_blank">
     <img src="https://user-badge.committers.top/nicaragua_private/StevenU21.svg" alt="Committers Badge" />
   </a>
@@ -13,21 +15,13 @@
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-Hi! I'm Steven, a web developer mainly focused on backend with a strong inclination toward the Laravel framework and the PHP ecosystem. I consider myself self-taught, proactive, and always seeking new professional and technological challenges. My goal is to create robust, scalable, and high-impact solutions.
+I am a **Backend Developer** focused on building scalable, robust architectures using the **PHP ecosystem**. I apply principles like **SOLID** and **Clean Code** to avoid technical debt and ensure maintainability.
 
-* 🎯 **Focus:** Backend development with Laravel and modern PHP.
-* 🛠️ **Experience:** REST API development, software architecture, database optimization, external service integration, and Linux server deployment.
-* 🚀 **Interests:** Clean Code, best practices, security, automation, DevOps, and new web technologies.
-
----
-
-## 📫 Want to contact me?
-
-* ✉️ **Email:** [ulloadeifheltsteven@gmail.com](mailto:ulloadeifheltsteven@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/stevenu21](https://www.linkedin.com/in/deifhelt-ulloa-12b56323a/)
-* 🌐 **Portfolio:** Coming soon...
+* 🔭 **Current Focus:** Advanced patterns in Laravel, API Design, and System Architecture.
+* 🌱 **Learning:** Game Development (Godot) & High-concurrency systems.
+* 🧠 **Mindset:** I value pragmatic solutions (YAGNI) and objective analysis over trend-chasing.
 
 ---
 
@@ -77,6 +71,16 @@ Hi! I'm Steven, a web developer mainly focused on backend with a strong inclinat
 </span>
 
 </div>
+---
+
+## 🚀 Featured Projects
+
+| Project | Role & Tech | Description |
+| :--- | :--- | :--- |
+| [**📰 BlogPost API**](https://github.com/StevenU21/blog_post-api-backend) | **Backend** <br> `Laravel` `Sanctum` `Algolia` | RESTful API with RBAC, complex search engine integration, and documented via Postman. |
+| [**🎬 CineCritic API**](https://github.com/StevenU21/cine-critic-api) | **Full Stack Logic** <br> `Laravel` `MySQL` | Review system architecture featuring admin dashboards and content management services. |
+| [**🤖 OpenAI Models App**](https://github.com/StevenU21/laravel-inertia-vue-ai-models) | **Full Stack** <br> `Laravel` `Inertia` `Vue` | Integration of OpenAI models using Jobs/Queues for async processing and clean architecture. |
+| [**💳 PaymentManager**](https://github.com/StevenU21/PaymentManager) | **Mobile** <br> `.NET MAUI` or `NativePHP` | Mobile solution for managing recurring client payments and financial tracking. |
 
 ---
 
@@ -90,28 +94,3 @@ Hi! I'm Steven, a web developer mainly focused on backend with a strong inclinat
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=StevenU21&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-* [**📰 BlogPost API**](https://github.com/StevenU21/blog_post-api-backend): A RESTful API for managing posts, categories, comments, with user roles, search engine (Algolia), Sanctum authentication, and Postman documentation.
-* [**🎬 CineCritic API**](https://github.com/StevenU21/cine-critic-api): A RESTful API for an online review system for movies and series, including user roles, Sanctum authentication, admin dashboard, and content management.
-* [**🔌 OpenAI Models API**](https://github.com/StevenU21/openAI-models-api): A REST API that consumes OpenAI AI models and enhances them with a backend service layer, validations, route protection, and easier integration for other technologies.
-* [**🤖 OpenAI Models App**](https://github.com/StevenU21/laravel-inertia-vue-ai-models): A full-stack app using Laravel, Inertia, and Vue.js that implements OpenAI's main models through their API, with backend features like jobs, queues, validations, services, and a clean architecture, combined with Vue's reactive capabilities.
-* [**💬 Real-Time Chat App**](https://github.com/StevenU21/laravel-reverb-chat): A real-time chat application built with Laravel, Blade, JavaScript, and broadcasting using Reverb and Echo JS.
-* [**📊 Argon Dashboard for Laravel**](https://github.com/StevenU21/argon-laravel): This project integrates the open-source Argon dashboard (MIT licensed) into Laravel as a Starter Kit to speed up new project development.
-* [**🌬️ Windmill Dashboard for Laravel**](https://github.com/StevenU21/windmill-laravel): Another Laravel Starter Kit based on the MIT-licensed Windmill Dashboard UI to help jumpstart new projects efficiently.
-* [**💳 PaymentManager**](https://github.com/StevenU21/PaymentManager): A mobile app designed to simplify and optimize the management of recurring client payments, whether for services, fees, or loans. It offers an intuitive interface and is ideal for small businesses and entrepreneurs.
-
----
-
-## ✨ Fun Facts & Quotes
-
-* 🕵️‍♂️ *"Debugging is like being the detective in a crime movie where you are also the murderer."*
-* 💡 *Never stop learning: technology moves forward, and so should we!*
-* 🐘 PHP originally stood for "Personal Home Page" before becoming "PHP: Hypertext Preprocessor."
-* 🚀 The name "Laravel" was inspired by the "Laravale" castle from the Dragon Quest video game.
-* 🌐 The first website created by Tim Berners-Lee in 1991 is still online: [info.cern.ch](http://info.cern.ch)
-
----
