@@ -71,7 +71,6 @@ I am a **Backend Developer** focused on building scalable, robust architectures 
 </span>
 
 </div>
----
 
 ## 🚀 Featured Projects
 
